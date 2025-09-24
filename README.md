@@ -64,9 +64,4 @@ All logs:
 - The implementation uses an internal synchronized list; `getLogs()` returns a defensive copy.
 - Replace or extend the logger for production needs (file output, log levels, rotation, etc.).
 
-## License
-MIT License — see `LICENSE` if included.
 
-## Repository
-Add this project to your GitHub repository and paste the link in your LMS assignment submission.
-```
