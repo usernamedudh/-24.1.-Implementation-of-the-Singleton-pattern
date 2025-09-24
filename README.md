@@ -1,4 +1,4 @@
-Ниже короткое описание и готовый `README.md` для вашего проекта.
+
 
 ```markdown
 # Singleton Logger (Java)
